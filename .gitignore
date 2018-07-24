@@ -1,0 +1,13 @@
+.zip
+*.pyc
+__pycache__
+fonexa_venv
+migrations
+.DS_Store
+
+# Django stuff:
+*.log
+local_settings.py
+.env
+.cnf
+
